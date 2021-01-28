@@ -10,6 +10,6 @@ protobuf==2.6.1
 pyasn1==0.1.9
 pycparser==2.14
 pycryptodomex==3.4.2
-pyOpenSSL==16.0.0
+pyOpenSSL==17.5.0
 requests==2.10.0
 six==1.10.0
